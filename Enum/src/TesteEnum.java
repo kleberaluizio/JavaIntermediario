@@ -8,7 +8,7 @@ public class TesteEnum {
         System.out.println(data.toString());
         System.out.println(data.getDiaSemana());
 
-        Formulario formulario = new Formulario("Nomes Fermininos", Formulario.Genero.FEMININO);
+        Formulario formulario = new Formulario("Nomes Femininos", Formulario.Genero.FEMININO);
         System.out.println(Formulario.Genero.FEMININO.getValor());
         System.out.println("-".repeat(15));
 

@@ -16,6 +16,6 @@ public class TesteEnum2 {
         System.out.println(diaTeste);
         System.out.println("-".repeat(20));
 
-        
+
     }
 }
