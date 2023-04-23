@@ -13,7 +13,7 @@ public class TesteEnum2 {
         System.out.println("-".repeat(20));
 
         DiaSemana diaTeste = Enum.valueOf(DiaSemana.class,"DOMINGO");
-        System.out.println(diaTeste);
+        System.out.println(diaTeste.getValor());
         System.out.println("-".repeat(20));
 
 
